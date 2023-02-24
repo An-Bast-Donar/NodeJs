@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "colors": "^1.4.0"
+  },
+  "name": "nodejs",
+  "description": "Bases de Node",
+  "version": "0.0.1",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/An-Bast-Donar/NodeJs.git"
+  },
+  "keywords": [
+    "nodejs",
+    "español",
+    "curso"
+  ],
+  "author": "Juan Rondon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/An-Bast-Donar/NodeJs/issues"
+  },
+  "homepage": "https://github.com/An-Bast-Donar/NodeJs#readme"
+}
